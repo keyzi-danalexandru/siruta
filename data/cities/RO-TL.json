@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Tudor Vladimirescu",
+    "zipcode": "820001",
+    "siruta": 159632
+  },
+  {
+    "name": "Babadag",
+    "zipcode": "825100",
+    "siruta": 159669
+  },
+  {
+    "name": "Isaccea",
+    "zipcode": "825200",
+    "siruta": 159696
+  },
+  {
+    "name": "Revărsarea",
+    "zipcode": "825201",
+    "siruta": 159712
+  },
+  {
+    "name": "Tichilești",
+    "zipcode": "825202",
+    "siruta": 159703
+  },
+  {
+    "name": "Măcin",
+    "zipcode": "825300",
+    "siruta": 159749
+  },
+  {
+    "name": "Sulina",
+    "zipcode": "825400",
+    "siruta": 159776
+  },
+  {
+    "name": "Baia",
+    "zipcode": "827005",
+    "siruta": 159794
+  },
+  {
+    "name": "Camena",
+    "zipcode": "827006",
+    "siruta": 159801
+  },
+  {
+    "name": "Caugagia",
+    "zipcode": "827007",
+    "siruta": 159810
+  },
+  {
+    "name": "Ceamurlia de Sus",
+    "zipcode": "827008",
+    "siruta": 159829
+  },
+  {
+    "name": "Panduru",
+    "zipcode": "827009",
+    "siruta": 159838
+  },
+  {
+    "name": "Beidaud",
+    "zipcode": "827010",
+    "siruta": 159856
+  },
+  {
+    "name": "Neatârnarea",
+    "zipcode": "827011",
+    "siruta": 159865
+  },
+  {
+    "name": "Sarighiol de Deal",
+    "zipcode": "827012",
+    "siruta": 159874
+  },
+  {
+    "name": "C.A. Rosetti",
+    "zipcode": "827015",
+    "siruta": 159892
+  },
+  {
+    "name": "Cardon",
+    "zipcode": "827016",
+    "siruta": 159909
+  },
+  {
+    "name": "Letea",
+    "zipcode": "827017",
+    "siruta": 159918
+  },
+  {
+    "name": "Periprava",
+    "zipcode": "827018",
+    "siruta": 159927
+  },
+  {
+    "name": "Sfiștofca",
+    "zipcode": "827019",
+    "siruta": 159936
+  },
+  {
+    "name": "Carcaliu",
+    "zipcode": "827020",
+    "siruta": 159954
+  },
+  {
+    "name": "Casimcea",
+    "zipcode": "827025",
+    "siruta": 159972
+  },
+  {
+    "name": "Cișmeaua Nouă",
+    "zipcode": "827026",
+    "siruta": 159981
+  },
+  {
+    "name": "Corugea",
+    "zipcode": "827027",
+    "siruta": 159990
+  },
+  {
+    "name": "Haidar",
+    "zipcode": "827028",
+    "siruta": 160001
+  },
+  {
+    "name": "Rahman",
+    "zipcode": "827029",
+    "siruta": 160010
+  },
+  {
+    "name": "Războieni",
+    "zipcode": "827031",
+    "siruta": 160029
+  },
+  {
+    "name": "Stânca",
+    "zipcode": "827032",
+    "siruta": 160038
+  },
+  {
+    "name": "Ceamurlia de Jos",
+    "zipcode": "827035",
+    "siruta": 160109
+  },
+  {
+    "name": "Lunca",
+    "zipcode": "827036",
+    "siruta": 160118
+  },
+  {
+    "name": "Ceatalchioi",
+    "zipcode": "827040",
+    "siruta": 160056
+  },
+  {
+    "name": "Pătlăgeanca",
+    "zipcode": "827041",
+    "siruta": 160065
+  },
+  {
+    "name": "Plauru",
+    "zipcode": "827042",
+    "siruta": 160074
+  },
+  {
+    "name": "Sălceni",
+    "zipcode": "827043",
+    "siruta": 160083
+  },
+  {
+    "name": "Cerna",
+    "zipcode": "827045",
+    "siruta": 160136
+  },
+  {
+    "name": "General Praporgescu",
+    "zipcode": "827046",
+    "siruta": 160145
+  },
+  {
+    "name": "Mircea Vodă",
+    "zipcode": "827047",
+    "siruta": 160154
+  },
+  {
+    "name": "Traian",
+    "zipcode": "827048",
+    "siruta": 160163
+  },
+  {
+    "name": "Chilia Veche",
+    "zipcode": "827050",
+    "siruta": 160181
+  },
+  {
+    "name": "Câșlița",
+    "zipcode": "827051",
+    "siruta": 160190
+  },
+  {
+    "name": "Ostrov Tătaru",
+    "zipcode": "827052",
+    "siruta": 160207
+  },
+  {
+    "name": "Tatanir",
+    "zipcode": "827053",
+    "siruta": 160216
+  },
+  {
+    "name": "Ciucurova",
+    "zipcode": "827055",
+    "siruta": 160234
+  },
+  {
+    "name": "Atmagea",
+    "zipcode": "827056",
+    "siruta": 160243
+  },
+  {
+    "name": "Fântâna Mare",
+    "zipcode": "827057",
+    "siruta": 160252
+  },
+  {
+    "name": "Crișan",
+    "zipcode": "827060",
+    "siruta": 160270
+  },
+  {
+    "name": "Caraorman",
+    "zipcode": "827061",
+    "siruta": 160289
+  },
+  {
+    "name": "Mila 23",
+    "zipcode": "827062",
+    "siruta": 160298
+  },
+  {
+    "name": "Dăeni",
+    "zipcode": "827065",
+    "siruta": 160314
+  },
+  {
+    "name": "Dorobanțu",
+    "zipcode": "827070",
+    "siruta": 160332
+  },
+  {
+    "name": "Ardealu",
+    "zipcode": "827071",
+    "siruta": 160341
+  },
+  {
+    "name": "Cârjelari",
+    "zipcode": "827072",
+    "siruta": 160350
+  },
+  {
+    "name": "Fântâna Oilor",
+    "zipcode": "827073",
+    "siruta": 160369
+  },
+  {
+    "name": "Meșteru",
+    "zipcode": "827074",
+    "siruta": 160378
+  },
+  {
+    "name": "Frecăței",
+    "zipcode": "827075",
+    "siruta": 160396
+  },
+  {
+    "name": "Cataloi",
+    "zipcode": "827076",
+    "siruta": 160403
+  },
+  {
+    "name": "Poșta",
+    "zipcode": "827077",
+    "siruta": 160412
+  },
+  {
+    "name": "Telița",
+    "zipcode": "827078",
+    "siruta": 160421
+  },
+  {
+    "name": "Greci",
+    "zipcode": "827080",
+    "siruta": 160449
+  },
+  {
+    "name": "Grindu",
+    "zipcode": "827085",
+    "siruta": 160467
+  },
+  {
+    "name": "Hamcearca",
+    "zipcode": "827090",
+    "siruta": 160485
+  },
+  {
+    "name": "Balabancea",
+    "zipcode": "827091",
+    "siruta": 160494
+  },
+  {
+    "name": "Căprioara",
+    "zipcode": "827092",
+    "siruta": 160500
+  },
+  {
+    "name": "Nifon",
+    "zipcode": "827093",
+    "siruta": 160519
+  },
+  {
+    "name": "Horia",
+    "zipcode": "827095",
+    "siruta": 160537
+  },
+  {
+    "name": "Cloșca",
+    "zipcode": "827096",
+    "siruta": 160546
+  },
+  {
+    "name": "Florești",
+    "zipcode": "827097",
+    "siruta": 160555
+  },
+  {
+    "name": "I.C. Brătianu",
+    "zipcode": "827100",
+    "siruta": 161534
+  },
+  {
+    "name": "Izvoarele",
+    "zipcode": "827105",
+    "siruta": 160573
+  },
+  {
+    "name": "Alba",
+    "zipcode": "827106",
+    "siruta": 160582
+  },
+  {
+    "name": "Iulia",
+    "zipcode": "827107",
+    "siruta": 160591
+  },
+  {
+    "name": "Valea Teilor",
+    "zipcode": "827108",
+    "siruta": 160608
+  },
+  {
+    "name": "Jijila",
+    "zipcode": "827110",
+    "siruta": 160626
+  },
+  {
+    "name": "Garvăn",
+    "zipcode": "827111",
+    "siruta": 160635
+  },
+  {
+    "name": "Jurilovca",
+    "zipcode": "827115",
+    "siruta": 160653
+  },
+  {
+    "name": "Sălcioara",
+    "zipcode": "827116",
+    "siruta": 160671
+  },
+  {
+    "name": "Vișina",
+    "zipcode": "827117",
+    "siruta": 160662
+  },
+  {
+    "name": "Luncavița",
+    "zipcode": "827120",
+    "siruta": 160699
+  },
+  {
+    "name": "Rachelu",
+    "zipcode": "827121",
+    "siruta": 160706
+  },
+  {
+    "name": "Văcăreni",
+    "zipcode": "827125",
+    "siruta": 160715
+  },
+  {
+    "name": "Mahmudia",
+    "zipcode": "827130",
+    "siruta": 160733
+  },
+  {
+    "name": "Băltenii de Jos",
+    "zipcode": "827131",
+    "siruta": 160742
+  },
+  {
+    "name": "Băltenii de Sus",
+    "zipcode": "827132",
+    "siruta": 160751
+  },
+  {
+    "name": "Beștepe",
+    "zipcode": "827133",
+    "siruta": 160760
+  },
+  {
+    "name": "Maliuc",
+    "zipcode": "827135",
+    "siruta": 160788
+  },
+  {
+    "name": "Gorgova",
+    "zipcode": "827136",
+    "siruta": 160804
+  },
+  {
+    "name": "Ilganii de Sus",
+    "zipcode": "827137",
+    "siruta": 160797
+  },
+  {
+    "name": "Partizani",
+    "zipcode": "827138",
+    "siruta": 160813
+  },
+  {
+    "name": "Vulturu",
+    "zipcode": "827139",
+    "siruta": 160822
+  },
+  {
+    "name": "Mihai Bravu",
+    "zipcode": "827140",
+    "siruta": 160840
+  },
+  {
+    "name": "Satu Nou",
+    "zipcode": "827141",
+    "siruta": 160859
+  },
+  {
+    "name": "Turda",
+    "zipcode": "827142",
+    "siruta": 160868
+  },
+  {
+    "name": "Mihail Kogălniceanu",
+    "zipcode": "827145",
+    "siruta": 160886
+  },
+  {
+    "name": "Lăstuni",
+    "zipcode": "827146",
+    "siruta": 160895
+  },
+  {
+    "name": "Rândunica",
+    "zipcode": "827147",
+    "siruta": 160902
+  },
+  {
+    "name": "Murighiol",
+    "zipcode": "827150",
+    "siruta": 160920
+  },
+  {
+    "name": "Colina",
+    "zipcode": "827151",
+    "siruta": 160939
+  },
+  {
+    "name": "Dunavățu de Jos",
+    "zipcode": "827152",
+    "siruta": 160948
+  },
+  {
+    "name": "Dunavățu de Sus",
+    "zipcode": "827153",
+    "siruta": 160957
+  },
+  {
+    "name": "Plopul",
+    "zipcode": "827154",
+    "siruta": 160966
+  },
+  {
+    "name": "Sarinasuf",
+    "zipcode": "827156",
+    "siruta": 160975
+  },
+  {
+    "name": "Uzlina",
+    "zipcode": "827157",
+    "siruta": 160984
+  },
+  {
+    "name": "Nalbant",
+    "zipcode": "827160",
+    "siruta": 161008
+  },
+  {
+    "name": "Nicolae Bălcescu",
+    "zipcode": "827161",
+    "siruta": 161017
+  },
+  {
+    "name": "Trestenic",
+    "zipcode": "827162",
+    "siruta": 161026
+  },
+  {
+    "name": "Niculițel",
+    "zipcode": "827165",
+    "siruta": 161044
+  },
+  {
+    "name": "Nufăru",
+    "zipcode": "827170",
+    "siruta": 161062
+  },
+  {
+    "name": "Ilganii de Jos",
+    "zipcode": "827171",
+    "siruta": 161071
+  },
+  {
+    "name": "Malcoci",
+    "zipcode": "827172",
+    "siruta": 161080
+  },
+  {
+    "name": "Victoria",
+    "zipcode": "827173",
+    "siruta": 161099
+  },
+  {
+    "name": "Ostrov",
+    "zipcode": "827175",
+    "siruta": 161115
+  },
+  {
+    "name": "Piatra",
+    "zipcode": "827176",
+    "siruta": 161124
+  },
+  {
+    "name": "Pardina",
+    "zipcode": "827180",
+    "siruta": 161142
+  },
+  {
+    "name": "Peceneaga",
+    "zipcode": "827185",
+    "siruta": 161160
+  },
+  {
+    "name": "Sarichioi",
+    "zipcode": "827190",
+    "siruta": 161188
+  },
+  {
+    "name": "Enisala",
+    "zipcode": "827191",
+    "siruta": 161197
+  },
+  {
+    "name": "Sabangia",
+    "zipcode": "827192",
+    "siruta": 161204
+  },
+  {
+    "name": "Visterna",
+    "zipcode": "827193",
+    "siruta": 161213
+  },
+  {
+    "name": "Zebil",
+    "zipcode": "827194",
+    "siruta": 161222
+  },
+  {
+    "name": "Sfântu Gheorghe",
+    "zipcode": "827195",
+    "siruta": 161240
+  },
+  {
+    "name": "Slava Cercheză",
+    "zipcode": "827200",
+    "siruta": 161268
+  },
+  {
+    "name": "Slava Rusă",
+    "zipcode": "827201",
+    "siruta": 161277
+  },
+  {
+    "name": "Smârdan",
+    "zipcode": "827205",
+    "siruta": 161295
+  },
+  {
+    "name": "Somova",
+    "zipcode": "827210",
+    "siruta": 161311
+  },
+  {
+    "name": "Mineri",
+    "zipcode": "827211",
+    "siruta": 161320
+  },
+  {
+    "name": "Parcheș",
+    "zipcode": "827212",
+    "siruta": 161339
+  },
+  {
+    "name": "Stejaru",
+    "zipcode": "827215",
+    "siruta": 161357
+  },
+  {
+    "name": "Mina Altân Tepe",
+    "zipcode": "827216",
+    "siruta": 161366
+  },
+  {
+    "name": "Vasile Alecsandri",
+    "zipcode": "827217",
+    "siruta": 161375
+  },
+  {
+    "name": "Topolog",
+    "zipcode": "827220",
+    "siruta": 161393
+  },
+  {
+    "name": "Calfa",
+    "zipcode": "827221",
+    "siruta": 161400
+  },
+  {
+    "name": "Cerbu",
+    "zipcode": "827222",
+    "siruta": 161419
+  },
+  {
+    "name": "Făgărașu Nou",
+    "zipcode": "827223",
+    "siruta": 161428
+  },
+  {
+    "name": "Luminița",
+    "zipcode": "827224",
+    "siruta": 161437
+  },
+  {
+    "name": "Măgurele",
+    "zipcode": "827226",
+    "siruta": 161446
+  },
+  {
+    "name": "Sâmbăta Nouă",
+    "zipcode": "827227",
+    "siruta": 161455
+  },
+  {
+    "name": "Turcoaia",
+    "zipcode": "827230",
+    "siruta": 161473
+  },
+  {
+    "name": "Valea Nucarilor",
+    "zipcode": "827235",
+    "siruta": 161491
+  },
+  {
+    "name": "Agighiol",
+    "zipcode": "827236",
+    "siruta": 161507
+  },
+  {
+    "name": "Iazurile",
+    "zipcode": "827237",
+    "siruta": 161516
+  }
+]
