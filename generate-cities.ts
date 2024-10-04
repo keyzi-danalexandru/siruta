@@ -63,7 +63,7 @@ void async function main() {
 
     const cityBucuresti = {
         name: "București",
-        zipcode: Bucuresti.map(({zipcode, adresa: address}) => ({zipcode, address})),
+        zipcode: Bucuresti.map(({zipcode, adresa}) => ({zipcode, address: cedillaToComma(adresa)})),
         siruta: 179132
     }
 
