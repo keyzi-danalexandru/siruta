@@ -8,5 +8,6 @@
         "types": [
             "node"
         ],
+        "target": "ESNext",
     }
 }

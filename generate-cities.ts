@@ -1,19 +1,12 @@
 #!/usr/bin/env ts-node
 
-import DataSet from "./data.gov.ro/4f83414b-d697-4768-845d-c31bd9173734.json"
 import Counties from "./data/counties.json";
 import Bucuresti from "./posta-romana.ro/bucuresti.json";
 import { writeFile } from "node:fs/promises";
+import { cedillaToComma } from "./src/siruta/cedilla-fix";
+import { loadJsonSync } from "./src/json";
 
-const cedillaToComma = (str: string) => str.replace(/[şţŞŢ]/g, (match) => {
-    const replacements = {
-      'ş': 'ș',
-      'ţ': 'ț',
-      'Ş': 'Ș',
-      'Ţ': 'Ț'
-    };
-    return replacements[match as "ş" | "ţ" | "Ş" | "Ţ"];
-});
+const DataSet = loadJsonSync("./data.gov.ro/4f83414b-d697-4768-845d-c31bd9173734.json")
 
 const getJudetIsoCode = (judet: string) => {
     const iso_code = Counties.find(county => county.name === judet)?.iso_code;
